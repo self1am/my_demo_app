@@ -4,7 +4,7 @@
 My Demo App is a Flutter application that demonstrates a modern user interface integrated with Firebase for user authentication. The app features a smooth and engaging experience, showcasing various functionalities such as user profiles, quick actions, and recent activities.
 
 ## Features
-ß
+
 - User authentication with Firebase
 - Dynamic and responsive UI using Flutter's material design
 - Customizable and extendable components
@@ -89,10 +89,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any inquiries or support, please contact me at [your.email@example.com](mailto:your.email@example.com).
-
-### Instructions:
-1. **Customize the repository link** with the correct URL where your code is hosted (e.g., GitHub).
-2. **Add screenshots** of your app where indicated.
-3. **Modify the contact information** to provide your actual email address.
-4. **Update the usage section** if you implement the quick actions or other features. 
+For any inquiries or support, please contact me at [miraahanafee@gmail.com](mailto:miraahanafee@gmail.com).
